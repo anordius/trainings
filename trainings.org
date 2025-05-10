@@ -1,0 +1,45 @@
+#+title: TRAININGS, SESSIONS AND WORKSHOPS HOSTED
+#+subtitle: R-Course
+#+author: ANORDIUS GEORGE [[https://github.com/anordius][(My Github)]]
+#+date: <2025-05-10 Sat>
+
+This will be the contents of our R-Course in Saturday session. We can have some additions in this contents, but no omission.
+
+This contents is available at this github repository [[https://github.com/anordius/trainings][Github repository]].
+
+                /Happy Coding!/
+
+* Morning Session (Before tea break)
+*R-Course: Getting Started*
+1. Installation of R and R-Studio (for those who haven't yet), plus basic introduction of the software.
+2. R Scripts
+3. R Packages
+4. File names and the Working Directory
+5. Errors and Warnings
+6. Objects in R
+   - Data types
+   - R Objects
+   - Special Data types
+7. Getting help (documentation) with R/R-Studio
+   Understanding the syntax, and the default used in different functions.
+
+* After tea Session
+*R-Course: Base Graphics*
+1. Basic Graphs
+2. Customizing Graphs with Options
+3. Overlaying Several plots
+4. Legends
+5. Exporting to a file
+
+* After Lunch Session
+*R-Course: Statistics (Hypothesis testing)*
+1. Summaries
+2. Standard deviation, Correlation, Variance, Covariance
+3. Chi-Square
+4. t-test
+5. ANOVA test
+
+* Next plans
+1. ggplot2 (Grammar of graphics)
+2. Data wrangling
+3. Regression Modelling
