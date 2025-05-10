@@ -1,11 +1,10 @@
-#+title: TRAININGS, SESSIONS AND WORKSHOPS HOSTED
-#+subtitle: R-Course
+#+title: R-Course: Part 1
 #+author: ANORDIUS GEORGE [[https://github.com/anordius][(My Github)]]
 #+date: <2025-05-10 Sat>
 
-This will be the contents of our R-Course in Saturday session. We can have some additions in this contents, but no omission.
+This will be the contents of our first part in R-Course which will be in Saturday. We can have some additions in this contents, but no omission.
 
-This contents is available at this github repository [[https://github.com/anordius/trainings][Github repository]].
+This contents is available at this github repository [[https://github.com/anordius/trainings/blob/main/trainings.org][Github repository]].
 
                 /Happy Coding!/
 
