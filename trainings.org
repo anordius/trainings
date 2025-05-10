@@ -2,7 +2,11 @@
 #+author: ANORDIUS GEORGE [[https://github.com/anordius][(My Github)]]
 #+date: <2025-05-10 Sat>
 
+<<<<<<< HEAD
 This will be (was) the contents of our first part in R-Course which will be (was) in Saturday 10, May 2025. We can have some additions in this contents, but no omission.
+=======
+This will be (was) the contents of our first part in R-Course which will be in Saturday 10, May 2025. We can have some additions in this contents, but no omission.
+>>>>>>> fd448bd3416a9949aafbc06b94192213633dd8a8
 
 This contents is available at this github repository [[https://github.com/anordius/trainings/blob/main/trainings.org][Github repository]].
 
