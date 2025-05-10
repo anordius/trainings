@@ -4,7 +4,7 @@
 
 This will be (was) the contents of our first part in R-Course which will be (was) in Saturday 10, May 2025. We can have some additions in this contents, but no omission.
 
-This contents is available at this github repository [[https://github.com/anordius/trainings/blob/main/trainings.org][Github repository]].
+This contents is available at this github repository [[https://github.com/anordius/trainings/blob/main/r-course_part1.org][Github repository]].
 
                 /Happy Coding!/
 
