@@ -19,8 +19,8 @@ This contents is available at this github repository [[https://github.com/anordi
    2) ~tidyr~ package and related functions
       - =pivot_wider()=
       - =pivot_longer()=
-
-   3) ~dplyr~ package and related functions
+3. Data Wrangling
+   1) ~dplyr~ package and related functions (The main package for data wrangling in tidyverse ecosystem)
       1. =%>%= - pipe operator for chaining a sequence of operations
       2. =glimpse()= - get an overview of what's included in dataset
       3. =filter()= - filter rows
@@ -35,16 +35,16 @@ This contents is available at this github repository [[https://github.com/anordi
       12. =count()= - get counts of unique values of specified column(s) (shortcut of =group_by()= and =tally()=)
       13. =add_count()= -  add values of =count()= as a new column
       14. =add_tally()= - add value(s) of =tally()= as a new column
-   4) =tidyr= package other functions
-   5) =skimr= for quick summary
-   6) =janitor= for cleaning data
+   2) =tidyr= package other functions
+   3) =skimr= for quick summary
+   4) =janitor= for cleaning data
       - =clean_names()= - clean column names
       - =tabyl()= - create a frequency table
       - =adorn_totals()= - add total row/column to a table
       - =adorn_percentages()= - add percentage to a table
       - =adorn_title()= - add title to a table
-3. ~ggplot2~ for Data visuation
-4. Basics of Regression Modelling in R (Cross-sectional data)
+4. ~ggplot2~ for Data visuation
+5. Basics of Regression Modelling in R (Cross-sectional data)
 
 Reference books:
 
