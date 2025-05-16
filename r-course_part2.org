@@ -2,7 +2,7 @@
 #+author: ANORDIUS GEORGE [[https://github.com/anordius][(My Github)]]
 #+date: <2025-05-17 Sat>
 
-This will be the contents of our first part in R-Course which will be in Saturday 17, May 2025. We can have some additions in this contents, but no omission.
+This will be the contents of our second part in R-Course which will be in Saturday 17, May 2025. We can have some additions in this contents, but no omission.
 
 This contents is available at this github repository [[https://github.com/anordius/trainings/blob/main/trainings.org][Github repository]].
 
@@ -36,8 +36,13 @@ This contents is available at this github repository [[https://github.com/anordi
       13. =add_count()= -  add values of =count()= as a new column
       14. =add_tally()= - add value(s) of =tally()= as a new column
    4) =tidyr= package other functions
-   5) =skimr=
-   6) =janitor=
+   5) =skimr= for quick summary
+   6) =janitor= for cleaning data
+      - =clean_names()= - clean column names
+      - =tabyl()= - create a frequency table
+      - =adorn_totals()= - add total row/column to a table
+      - =adorn_percentages()= - add percentage to a table
+      - =adorn_title()= - add title to a table
 3. ~ggplot2~ for Data visuation
 4. Basics of Regression Modelling in R (Cross-sectional data)
 
