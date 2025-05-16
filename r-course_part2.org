@@ -1,0 +1,49 @@
+#+title: R-Course: Part 2
+#+author: ANORDIUS GEORGE [[https://github.com/anordius][(My Github)]]
+#+date: <2025-05-17 Sat>
+
+This will be the contents of our first part in R-Course which will be in Saturday 17, May 2025. We can have some additions in this contents, but no omission.
+
+This contents is available at this github repository [[https://github.com/anordius/trainings/blob/main/trainings.org][Github repository]].
+
+                /Happy Coding!/
+
+1. Tidy data
+   What is tidy data and why tidy data
+
+2. Reshaping data
+   1) Basics
+      - Wide data format
+      - Long data format
+
+   2) ~tidyr~ package and related functions
+      - =pivot_wider()=
+      - =pivot_longer()=
+
+   3) ~dplyr~ package and related functions
+      1. =%>%= - pipe operator for chaining a sequence of operations
+      2. =glimpse()= - get an overview of what's included in dataset
+      3. =filter()= - filter rows
+      4. =select()= - select, rename, and reorder columns
+      5. =rename()= - rename columns
+      6. =arrange()= - reorder rows
+      7. =mutate()= - create a new column
+      8. =group_by()= - group variables
+      9. =summarize()= - summarize information within a dataset
+      10. =left_join()= - combine data across data frame
+      11. =tally()= - get overall sum of values of specified column(s) or the number of rows of tibble
+      12. =count()= - get counts of unique values of specified column(s) (shortcut of =group_by()= and =tally()=)
+      13. =add_count()= -  add values of =count()= as a new column
+      14. =add_tally()= - add value(s) of =tally()= as a new column
+   4) =tidyr= package other functions
+   5) =skimr=
+   6) =janitor=
+3. ~ggplot2~ for Data visuation
+4. Basics of Regression Modelling in R (Cross-sectional data)
+
+Reference books:
+
+1. ~Tidyverse Skills for Data Science in R~ by Carrie Wright et al (2021)
+2. ~R for Data Science~ by Hadley Wicklham and Garret Grolemund (2017)
+3. ~Ggplot2: Elegant Graphics for Data Analysis~ by Hadley Wicklham
+4. ~Using R for Introductory Econometrics (2nd ed)~ by Florian Heiss
