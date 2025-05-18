@@ -2,7 +2,7 @@
 #+author: ANORDIUS GEORGE [[https://github.com/anordius][(My Github)]]
 #+date: <2025-05-10 Sat>
 
-This will be (was) the contents of our first part in R-Course which will be (was) in Saturday 10, May 2025. We can have some additions in this contents, but no omission.
+This was the contents of first part 1 of our Weekly R-Course series, Saturday 10, May 2025, Sokoine University of Agriculture, College of Forestry, Wildlife and Tourism (Postgraduates).
 
 This contents is available at this github repository [[https://github.com/anordius/trainings/blob/main/r-course_part1.org][Github repository]].
 
