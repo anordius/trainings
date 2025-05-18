@@ -51,7 +51,7 @@ Reference books:
 
 1. *Tidyverse Skills for Data Science in R* by Carrie Wright, Shannon E. Ellis, Stephanie C. Hicks and Roger D. Peng (2021), available online and for download at: [[https://jhudatascience.org/tidyversecourse/]]
 2. *R for Data Science, 2(ed)* by Hadley Wicklham and Garret Grolemund (2023), available online at: [[https://r4ds.hadley.nz/]]
-3. *Ggplot2: Elegant Graphics for Data Analysis, 3(ed)* by Hadley, available online at: [[Wicklhamhttps://ggplot2-book.org/]]
+3. *Ggplot2: Elegant Graphics for Data Analysis, 3(ed)* by Hadley, available online at: [[https://ggplot2-book.org/]]
 4. *Using R for Introductory Econometrics (2nd ed)* by Florian Heiss (2020), Download the book at: [[https://www.urfie.net/downloads/PDF/URfIE_web.pdf]]
 
 ** Next Plans
